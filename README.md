@@ -1,6 +1,8 @@
 # Roadwork IoT
 
-Roadwork IoT is a technical implementation of the blog post by Xavier Geerinck. Its main purpose is to provide a Digital Twin abstraction layer on an IoT Processor through Kubernetes.
+Roadwork IoT is a technical implementation of the [following blog post by Xavier Geerinck](https://xaviergeerinck.com/post/iot/digital-twin-dapr/). Its main purpose is to provide a Digital Twin abstraction layer on an IoT Processor utilizing the Dapr framework and their virtual actors.
+
+![](./documentation-digital-twin-dapr-architecture.svg)
 
 ## IoT Hubs
 

@@ -27,21 +27,20 @@ class Processor {
             }
     
             const lastUpdated = message.systemProperties['iothub-enqueuedtime'] || (new Date()).getTime();
-            const actorType = 'rw-twin-device'; // Roadwork Twin Device
+            const actorType = 'RoadworkTwinActor'; // Roadwork Twin Device
     
-            const wrapper = { meta: {}, state: {} };
-            wrapper.meta.lastUpdated = lastUpdated;
-            wrapper.meta.source = "azure-iothub";
-            wrapper.meta.deviceId = deviceId;
-    
-            wrapper.state = message.body;
+            const wrapper = { };
+            wrapper.LastUpdated = lastUpdated.toString();
+            wrapper.Source = "azure-iothub";
+            wrapper.DeviceId = deviceId;
+            wrapper.State = JSON.stringify(message.body);
     
             // POST/PUT http://localhost:<daprPort>/v1.0/actors/<actorType>/<actorId>/state
-            // http://localhost:3500/v1.0/actors/rw-twin-device/xavier-mxchip-mac-c89346878b8b/state
-            console.log(`[${deviceId}] Updating State`);
+            console.log(`[${(new Date()).toISOString()}][${deviceId}] Updating State`);
 
             try {
-                const res = await fetch(`http://localhost:${DAPR_PORT}/v1.0/actors/${actorType}/${deviceId}/state`, {
+                // https://github.com/dapr/docs/blob/v0.7.0/reference/api/actors_api.md#invoke-actor-method
+                const res = await fetch(`http://localhost:${DAPR_PORT}/v1.0/actors/${actorType}/${deviceId}/method/SaveData`, {
                     method: 'POST',
                     headers: {
                         "Content-Type": "application/json"
@@ -49,24 +48,23 @@ class Processor {
                     body: JSON.stringify(wrapper)
                 });
     
-                const json = await res.json();
-
-                console.log(json);
-                console.log(res.status);
-    
+                let json;
                 switch (res.status) {
                     case 200:
-                        console.log(`Processed Message: ${json}`);
+                        // console.log(`Processed Message: ${JSON.stringify(wrapper)}`);
                         break;
                     case 500:
-                        console.log(`Failed processing message: ${message}`);
+                        json = await res.json();
+                        console.log(`Failed processing message: ${JSON.stringify(json)}`);
                         break;
                     case 404:
+                    default:
+                        json = await res.json();
                         console.log(`Could not find actor for device ${deviceId}`)
                         break;
                 }
 
-                console.log(`[${deviceId}] Updated State`);
+                console.log(`[${(new Date()).toISOString()}][${deviceId}] Updated State`);
             } catch (e) {
                 console.error(`[${deviceId}] ${e.message}`)
                 process.exit();

@@ -1,3 +1,6 @@
 node_modules/
 kubernetes.yaml
 components/
+bin/
+obj/
+.next/
