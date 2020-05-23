@@ -1,0 +1,784 @@
+[
+    {
+        "messageId": 1,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 47.29999923706055,
+            "pressure": 590.5234375
+        }
+    },    {
+        "messageId": 2,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 47.29999923706055,
+            "pressure": 590.5234375
+        }
+    },    {
+        "messageId": 3,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 47.29999923706055,
+            "pressure": 590.5234375
+        }
+    },
+    {
+        "messageId": 4,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 46.79999923706055,
+            "pressure": 779.057861328125
+        }
+    },
+    {
+        "messageId": 5,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -59
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 46.20000076293945,
+            "pressure": 885.141845703125
+        }
+    },
+    {
+        "messageId": 6,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -59
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 45.5,
+            "pressure": 944.783203125
+        }
+    },
+    {
+        "messageId": 7,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -59
+        },
+        "data": {
+            "temperature": 26.100000381469727,
+            "humidity": 45.099998474121094,
+            "pressure": 978.283447265625
+        }
+    },
+    {
+        "messageId": 8,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 26.200000762939453,
+            "humidity": 44.79999923706055,
+            "pressure": 997.1455078125
+        }
+    },
+    {
+        "messageId": 9,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -62
+        },
+        "data": {
+            "temperature": 26.200000762939453,
+            "humidity": 44.599998474121094,
+            "pressure": 1007.787109375
+        }
+    },
+    {
+        "messageId": 10,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.200000762939453,
+            "humidity": 44.20000076293945,
+            "pressure": 1013.734130859375
+        }
+    },
+    {
+        "messageId": 11,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.200000762939453,
+            "humidity": 43.599998474121094,
+            "pressure": 1017.10498046875
+        }
+    },
+    {
+        "messageId": 12,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.299999237060547,
+            "humidity": 43.599998474121094,
+            "pressure": 1019.015625
+        }
+    },
+    {
+        "messageId": 13,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.299999237060547,
+            "humidity": 43.29999923706055,
+            "pressure": 1020.068115234375
+        }
+    },
+    {
+        "messageId": 14,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 26.399999618530273,
+            "humidity": 43.20000076293945,
+            "pressure": 1020.6611328125
+        }
+    },
+    {
+        "messageId": 15,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -62
+        },
+        "data": {
+            "temperature": 26.399999618530273,
+            "humidity": 42.79999923706055,
+            "pressure": 1020.993408203125
+        }
+    },
+    {
+        "messageId": 16,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 26.5,
+            "humidity": 43,
+            "pressure": 1021.1728515625
+        }
+    },
+    {
+        "messageId": 17,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 26.5,
+            "humidity": 42.29999923706055,
+            "pressure": 1021.305908203125
+        }
+    },
+    {
+        "messageId": 18,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 26.600000381469727,
+            "humidity": 42.599998474121094,
+            "pressure": 1021.392578125
+        }
+    },
+    {
+        "messageId": 20,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -63
+        },
+        "data": {
+            "temperature": 29.5,
+            "humidity": 60.70000076293945,
+            "pressure": 1031.97119140625
+        }
+    },
+    {
+        "messageId": 21,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -63
+        },
+        "data": {
+            "temperature": 28.799999237060547,
+            "humidity": 50.20000076293945,
+            "pressure": 1035.293701171875
+        }
+    },
+    {
+        "messageId": 22,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -64
+        },
+        "data": {
+            "temperature": 28.600000381469727,
+            "humidity": 47.79999923706055,
+            "pressure": 1029.363525390625
+        }
+    },
+    {
+        "messageId": 23,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -63
+        },
+        "data": {
+            "temperature": 28.399999618530273,
+            "humidity": 45.79999923706055,
+            "pressure": 1026.015869140625
+        }
+    },
+    {
+        "messageId": 24,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 28.299999237060547,
+            "humidity": 44.400001525878906,
+            "pressure": 1024.127197265625
+        }
+    },
+    {
+        "messageId": 25,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 28,
+            "humidity": 43.70000076293945,
+            "pressure": 1023.036376953125
+        }
+    },
+    {
+        "messageId": 26,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 28,
+            "humidity": 43.099998474121094,
+            "pressure": 1022.45166015625
+        }
+    },
+    {
+        "messageId": 27,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -62
+        },
+        "data": {
+            "temperature": 28,
+            "humidity": 42.5,
+            "pressure": 1022.118408203125
+        }
+    },
+    {
+        "messageId": 28,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 28,
+            "humidity": 41.900001525878906,
+            "pressure": 1021.91748046875
+        }
+    },
+    {
+        "messageId": 29,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 27.899999618530273,
+            "humidity": 41.70000076293945,
+            "pressure": 1021.785888671875
+        }
+    },
+    {
+        "messageId": 30,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 27.899999618530273,
+            "humidity": 41.599998474121094,
+            "pressure": 1021.728515625
+        }
+    },
+    {
+        "messageId": 31,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 27.899999618530273,
+            "humidity": 41.599998474121094,
+            "pressure": 1021.65673828125
+        }
+    },
+    {
+        "messageId": 32,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 27.899999618530273,
+            "humidity": 41.20000076293945,
+            "pressure": 1021.64208984375
+        }
+    },
+    {
+        "messageId": 33,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 28,
+            "humidity": 41.20000076293945,
+            "pressure": 1021.578857421875
+        }
+    },
+    {
+        "messageId": 34,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -66
+        },
+        "data": {
+            "temperature": 28,
+            "humidity": 41.400001525878906,
+            "pressure": 1021.582275390625
+        }
+    },
+    {
+        "messageId": 36,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 31.700000762939453,
+            "humidity": 54.099998474121094,
+            "pressure": 1021.6279296875
+        }
+    },
+    {
+        "messageId": 37,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 30.899999618530273,
+            "humidity": 49.20000076293945,
+            "pressure": 1021.611083984375
+        }
+    },
+    {
+        "messageId": 38,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -59
+        },
+        "data": {
+            "temperature": 30.399999618530273,
+            "humidity": 46.70000076293945,
+            "pressure": 1021.587890625
+        }
+    },
+    {
+        "messageId": 39,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -63
+        },
+        "data": {
+            "temperature": 29.899999618530273,
+            "humidity": 45.400001525878906,
+            "pressure": 1021.6298828125
+        }
+    },
+    {
+        "messageId": 40,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 29.299999237060547,
+            "humidity": 43.400001525878906,
+            "pressure": 1021.595458984375
+        }
+    },
+    {
+        "messageId": 41,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 29,
+            "humidity": 42.099998474121094,
+            "pressure": 1021.5576171875
+        }
+    },
+    {
+        "messageId": 42,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -62
+        },
+        "data": {
+            "temperature": 28.600000381469727,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.548095703125
+        }
+    },
+    {
+        "messageId": 43,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -59
+        },
+        "data": {
+            "temperature": 28.100000381469727,
+            "humidity": 41.20000076293945,
+            "pressure": 1021.5576171875
+        }
+    },
+    {
+        "messageId": 44,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 27.700000762939453,
+            "humidity": 41.099998474121094,
+            "pressure": 1021.583984375
+        }
+    },
+    {
+        "messageId": 45,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 27.399999618530273,
+            "humidity": 41.099998474121094,
+            "pressure": 1021.574462890625
+        }
+    },
+    {
+        "messageId": 46,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 27.200000762939453,
+            "humidity": 41.099998474121094,
+            "pressure": 1021.581298828125
+        }
+    },
+    {
+        "messageId": 47,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 27,
+            "humidity": 41.20000076293945,
+            "pressure": 1021.587158203125
+        }
+    },
+    {
+        "messageId": 48,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 27,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.602783203125
+        }
+    },
+    {
+        "messageId": 49,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.799999237060547,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.576416015625
+        }
+    },
+    {
+        "messageId": 50,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.799999237060547,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.5478515625
+        }
+    },
+    {
+        "messageId": 51,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.799999237060547,
+            "humidity": 41.5,
+            "pressure": 1021.50244140625
+        }
+    },
+    {
+        "messageId": 52,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.700000762939453,
+            "humidity": 41.5,
+            "pressure": 1021.50390625
+        }
+    },
+    {
+        "messageId": 53,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.600000381469727,
+            "humidity": 41.400001525878906,
+            "pressure": 1021.5283203125
+        }
+    },
+    {
+        "messageId": 54,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.5,
+            "humidity": 41.400001525878906,
+            "pressure": 1021.501953125
+        }
+    },
+    {
+        "messageId": 55,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -60
+        },
+        "data": {
+            "temperature": 26.399999618530273,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.482421875
+        }
+    },
+    {
+        "messageId": 56,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -61
+        },
+        "data": {
+            "temperature": 26.399999618530273,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.48779296875
+        }
+    },
+    {
+        "messageId": 57,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -62
+        },
+        "data": {
+            "temperature": 26.399999618530273,
+            "humidity": 41.20000076293945,
+            "pressure": 1021.451171875
+        }
+    },
+    {
+        "messageId": 58,
+        "meta": {
+            "mac": "c8-93-46-87-8x-yz",
+            "firmwareVersion": "1.6.5",
+            "wifiSSID": "WiFi-2.4-5B10",
+            "wifiRSSI": -59
+        },
+        "data": {
+            "temperature": 26.5,
+            "humidity": 41.29999923706055,
+            "pressure": 1021.501953125
+        }
+    }
+]

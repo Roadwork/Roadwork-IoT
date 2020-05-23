@@ -1,0 +1,25 @@
+{
+  "name": "roadwork-iot",
+  "version": "1.0.0",
+  "description": "Roadwork IoT is a technical implementation of the blog post by Xavier Geerinck. Its main purpose is to provide a Digital Twin abstraction layer on an IoT Processor through Kubernetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roadwork/Roadwork-IoT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roadwork/Roadwork-IoT/issues"
+  },
+  "homepage": "https://github.com/Roadwork/Roadwork-IoT#readme",
+  "dependencies": {
+    "@azure/event-hubs": "^5.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}

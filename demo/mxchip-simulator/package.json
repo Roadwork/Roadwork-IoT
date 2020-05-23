@@ -1,0 +1,16 @@
+{
+  "name": "mxchip-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.15.0",
+    "azure-iot-device-mqtt": "^1.14.0"
+  }
+}
