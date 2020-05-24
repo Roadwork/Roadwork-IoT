@@ -38,7 +38,8 @@ app.get('/actors', async (req, res) => {
             meta: {
                 stateKey: actor
             },
-            name: actorKeys[2]
+            name: actorKeys[2],
+            state: await redisGetAsync(actor)
         })
     }
     

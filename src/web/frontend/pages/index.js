@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import fetch from 'isomorphic-fetch';
+import Actor from '../components/Actor';
 
 function HomePage() {
     const [ actors, setActors ] = useState([]);
@@ -16,7 +17,7 @@ function HomePage() {
 
     return (
         <div>
-            {actors && actors.map(i => <p>{i.name}</p>)}
+            {actors && actors.map(i => <Actor id={i.name} state={i.state} />)}
         </div>
     )
 }
