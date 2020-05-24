@@ -3,6 +3,8 @@ const DeviceClient = require('azure-iot-device').Client;
 const Message = require('azure-iot-device').Message;
 const data = require('./data.json');
 
+const DELAY = 1000;
+
 async function start() {
   const connectionString = process.argv[2];
 
@@ -21,7 +23,7 @@ async function start() {
     await iotHubSendMessage(client, msg);
     msgIdx = (msgIdx + 1) % data.length;
 
-    await sleep(5000);
+    await sleep(DELAY);
   }
 }
 
