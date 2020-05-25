@@ -36,7 +36,7 @@ class Processor {
             wrapper.State = JSON.stringify(message.body);
     
             // POST/PUT http://localhost:<daprPort>/v1.0/actors/<actorType>/<actorId>/state
-            console.log(`[${(new Date()).toISOString()}][${deviceId}] Updating State`);
+            console.log(`[${(new Date()).toISOString()}][${deviceId}] http://localhost:${DAPR_PORT}/v1.0/actors/${actorType}/${deviceId}/method/SaveData`);
 
             try {
                 // https://github.com/dapr/docs/blob/v0.7.0/reference/api/actors_api.md#invoke-actor-method
