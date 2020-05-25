@@ -1,6 +1,12 @@
 node_modules/
 kubernetes.yaml
-components/
 bin/
 obj/
 .next/
+
+# Dapr
+**/components/redis.yaml
+**/components/redis_messagebus.yaml
+**/components/pubsub.yaml
+**/components/statestore.yaml
+**/components/messagebus.yaml
